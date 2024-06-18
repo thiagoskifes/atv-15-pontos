@@ -1,0 +1,21 @@
+[
+    {
+      "COD": 1,
+      "Descrição": "arroz",
+      "Marca": "ABC",
+      "valor": 10.33
+    },
+    {
+      "COD": 2,
+      "Descrição": "feijão",
+      "Marca": "XYZ",
+      "valor": 5.2
+    },
+    {
+      "COD": 3,
+      "Descrição": "farinha",
+      "Marca": "VFT",
+      "valor": 2.49
+    }
+  ]
+  
